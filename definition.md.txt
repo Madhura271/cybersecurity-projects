@@ -1,0 +1,50 @@
+Offensive and Defensive Security Definition
+Offensive Security (also known as "Penetration Testing" or "Red Teaming")
+Offensive Security refers to the active efforts to identify and exploit vulnerabilities in a system to assess its weaknesses. The goal of offensive security is to understand how an attacker would breach a system, so that appropriate defenses can be put in place to prevent these attacks.
+
+Key Aspects:
+
+Penetration Testing: Ethical hackers (white hat hackers) simulate real-world attacks to identify weaknesses.
+
+Vulnerability Assessment: Scanning and testing a system to find known vulnerabilities.
+
+Exploitation: Gaining unauthorized access to systems and applications by exploiting vulnerabilities.
+
+Red Teaming: A group of ethical hackers trying to breach security defenses, mimicking real-world attacks.
+
+Example Attacks in Offensive Security:
+
+Phishing: Sending fake emails to trick users into providing sensitive information.
+
+SQL Injection: Exploiting vulnerabilities in a web application to access databases.
+
+Brute Force Attacks: Trying multiple password combinations to gain unauthorized access.
+
+Defensive Security (also known as "Blue Teaming")
+Defensive Security is about protecting systems, networks, and data from attacks and responding to security incidents. It involves detecting and preventing attacks using various tools and strategies. Defensive security ensures that even if an attack happens, the damage is minimized and the system can recover quickly.
+
+Key Aspects:
+
+Firewalls: A system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+Intrusion Detection Systems (IDS): Tools that monitor network or system activities for malicious activity or policy violations.
+
+Incident Response: The steps taken after a security breach to contain, mitigate, and recover from the attack.
+
+Security Monitoring: Continuous monitoring of systems and networks for potential threats and anomalies.
+
+Example Defenses in Defensive Security:
+
+Encryption: Ensuring that sensitive data is unreadable to unauthorized users.
+
+Access Control: Limiting who can access certain systems or data based on their role.
+
+Anti-virus & Anti-malware: Software designed to detect and prevent malicious software.
+
+The Relationship Between Offensive and Defensive Security:
+Offensive Security is about identifying vulnerabilities and exploiting weaknesses to understand the system's security flaws.
+
+Defensive Security is about protecting the system and responding effectively to breaches once they occur.
+
+Both aspects are essential in Cybersecurity because they help detect and prevent potential threats, ensuring a robust and resilient defense.
+

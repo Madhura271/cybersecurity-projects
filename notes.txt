@@ -1,0 +1,45 @@
+OFFENSIVE AND DEFENSIVE SECURITY - SUMMARY NOTES 
+
+DEFENSIVE SECURITY (BLUE TEAM)
+
+Focuses on protecting systems from threats.
+
+Involves monitoring, detection, prevention, and incident response.
+
+Tools/techniques include:
+
+Firewalls
+
+Intrusion Detection Systems (IDS)
+
+Antivirus software
+
+Security policies
+
+Access control and encryption
+
+OFFENSIVE SECURITY (RED TEWAM)
+
+Focuses on identifying and exploiting vulnerabilities.
+
+Involves penetration testing, ethical hacking, and simulated attacks.
+
+Tools/techniques include:
+
+Vulnerability scanning
+
+Social engineering
+
+Phishing attacks
+
+Brute force attacks
+
+Exploitation tools (e.g., Metasploit)
+
+Relationship Between Them
+Offensive security finds the gaps.
+
+Defensive security closes the gaps.
+
+Both work together to create a robust cybersecurity posture.
+
